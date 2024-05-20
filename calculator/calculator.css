@@ -1,0 +1,27 @@
+body{
+    background-color: smoke whitesmoke;
+}
+.calculator{
+    border: 2px solid white;
+    margin-top: 23px;
+    width: 40vw;
+    margin: 23px auto;
+    padding: 23px;
+    height: 60vh;
+    margin-top: 20vh;
+    border-radius: 20px;
+    box-shadow: 0px 0px 11px 0px;
+    background-color: beige;
+}
+.box{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+
+}
+.box4 li{
+    display: inline;
+}
+#button{
+    border-radius: 10px;
+}
